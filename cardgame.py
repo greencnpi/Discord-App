@@ -16,6 +16,7 @@ store = 'cardgamestore.pk'
 carddata = 'memecard.xlsx'
 
 #Setup discord
+#obviously this token won't work anymore
 TOKEN = 'NjMxMzE4NjQxODI4MTY3NzA0.XZ5Odw.942_9faHEwDR5MxgSDC2Q16g9_k'
 GUILD = 'DISCORD_GUILD'
 intents = discord.Intents.all()
